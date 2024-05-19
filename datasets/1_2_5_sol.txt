@@ -10,4 +10,3 @@ density                -61.455387
 pH                       0.458432
 sulphates                0.807071
 alcohol                  0.272011
-dtype: float64
